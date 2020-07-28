@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/cruz-entrecruzada.png</file>
+        <file>Recursos/iconfinder_exit-enter-leave-in-door_2931187.png</file>
+        <file>Recursos/info_15260.png</file>
+        <file>Recursos/mas.png</file>
+        <file>Recursos/menos.png</file>
+        <file>Recursos/lista-de-quehaceres.png</file>
+    </qresource>
+</RCC>
