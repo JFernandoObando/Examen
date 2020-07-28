@@ -1,0 +1,7 @@
+Examen POO;Universidad;27/07/2020;Alta
+Examen Estructura;Universidad;28/07/2020;Alta
+Examen Electrotecnia;Universidad;30/07/2020;Alta
+Compras fin de mes;Hogar;01/08/2020;Media
+Visitar pareja;Relacion;05/08/2020;Baja
+Salir a pasear;Familia;01/01/2000; Alta
+Sacar al perro;Family;02/08/2020;Half
